@@ -1,26 +1,26 @@
-E-Commerce Sales Analysis Full Project
+#  E-Commerce Sales Analysis Full Project
 
-📊 Project Description
-This project analyzes e-commerce sales data using SQL,Power BI,Python,Excel.
+## 📊 Project Description
+This project analyzes e-commerce sales data using SQL,Python,Excel,PowerBI.
 
-🔧 Tools Used
-SQL
-Excel
-Python
-Power BI
+## 🔧 Tools Used
+- SQL
+- Excel
+- Python
+- Power BI
 
-📌 Key Analysis
-Total sales
-sales by region
-Top product by sales
-Monthly sales trend
+## 📌 Key Analysis
+- Total sales
+- Sales by region
+- Top product by sales
+- Monthly sales trend
 
-📁 Files
-E-commerce_sales_dashboard.pbix
-E-commerce_sales_dataset.sql
-theme.json
-ecommerce_sales.ipynb
-ecommerce_sales_dataset.csv
+## 📁 Files
+- ecommerce_sales_dataset.csv
+- E-commerce_sales_dataset.sql
+- E-commerce_sales_dashboard.pbix
+- ecommerce_sales.ipynb
+- Theme.json
 
-🚀 Outcome
+## 🚀 Outcome
 Identified top-performing products and categories based on sales and profitability.
